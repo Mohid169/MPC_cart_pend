@@ -19,7 +19,7 @@ int main() {
 
     // Create CartPendulum instance
     CartPendulum system(cartMass, pendulumMass, pendulumLength);
-    Controller controller; 
+    //Controller controller; 
 
     // Simulation parameters
     double controlForce = 0;
